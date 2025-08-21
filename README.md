@@ -1,3 +1,3 @@
 # firebase_app_5
 
-A new Flutter project.
+An user registration app with firebase integration.
